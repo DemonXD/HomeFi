@@ -18,8 +18,8 @@ dependencies:
   font_awesome_flutter: ^9.1.0
   get: ^4.1.4
   get_storage: ^2.0.2
-  google_fonts: ^2.1.0
-  http: ^0.13.3
+  google_fonts: ^6.1.0
+  http: ^1.0.0
   lottie: ^1.0.1
   mqtt_client: ^9.3.1
 
